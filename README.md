@@ -2,7 +2,7 @@
  provides a comprehensive overview of sales performance, displaying key metrics such as total sales, operating profit, and units sold across various regions and product categories.
 
 ### Dashboard Link :\https://github.com/emadfayed011190/ADIDAS-SALES-ANALYSIS/blob/main/ADIDAS%20SALES%20ANALYSIS.pbix
-### snap : 
+### snap : https://github.com/emadfayed011190/ADIDAS-SALES-ANALYSIS/blob/main/ADIDAS%20SALES%20DASHBOARD.PNG
 
 
 ## BUSINESS REQUIREMENTS  
